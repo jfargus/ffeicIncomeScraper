@@ -1,5 +1,6 @@
 # ffeicIncomeScraper
 A small python program to enter addresses into the FFIEC geocoder website and return census income tract and underserved status from a csv of addresses. 
+You can find the geocoder here: https://geomap.ffiec.gov/FFIECGeocMap/GeocodeMap1.aspx
 
 Make sure you have the dependencies installed: BeautifulSoup4, Selenium and Pandas.
 
